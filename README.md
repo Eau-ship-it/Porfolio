@@ -24,7 +24,9 @@ I created this project for learning web development and having a web portfolio, 
 ## Future Improvements
 
 -Better the design with css
+
 -Add the information in the blocks
+
 -Improve the frutiger aero style
 
 Autor: Esteban Castaño Castaño
