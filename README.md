@@ -1,5 +1,5 @@
 # Porfolio
-A web portfolio for me :D}
+A web portfolio for me :D
 
 ## About the Project
 
