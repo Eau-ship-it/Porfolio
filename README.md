@@ -14,10 +14,15 @@ I created this project for learning web development and having a web portfolio, 
 ## Features
 
 -Frutiger Aero style
+
 -Nav bar
+
 -About Me
+
 -Projects
+
 -Trajectory
+
 -What does come next??
 
 
