@@ -34,10 +34,12 @@ I created this project for learning web development and having a web portfolio, 
 
 -Improve the frutiger aero style
 
-##Mockup Images
+## Mockup Images
+
 <img width="668" height="602" alt="image" src="https://github.com/user-attachments/assets/95fe1a3b-53b6-43bd-8402-e9683b71647d" />
 
-##Current web Images
+## Current web Images
+
 <img width="403" height="872" alt="image" src="https://github.com/user-attachments/assets/51a83c7e-3fd1-431b-89d1-546d7f125402" />
 
 ## Demo
